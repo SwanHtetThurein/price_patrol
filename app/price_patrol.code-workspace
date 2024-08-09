@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "price_patrol",
+			"path": ".."
+		},
+		{
+			"name": "public",
+			"path": "../../../../Downloads/public"
+		}
+	],
+	"settings": {}
+}
