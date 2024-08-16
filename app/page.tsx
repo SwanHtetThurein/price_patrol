@@ -25,7 +25,7 @@ const Home = () => {
             </h1>
 
             <p className="mt-6">
-              Powerful, self-serve product and growth analytics to help you convert, engage, and retain more.
+              We patrol prices for your Amazon shopping list so you can focus on what matters.
             </p>
  
             <Searchbar />
